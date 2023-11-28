@@ -1,7 +1,6 @@
-### Hi there 👋
 ![image](https://github.com/duafatimaa/duafatimaa/assets/126259467/a0fd40f5-f9b3-44aa-bf91-c7ad16243694)
 
-<h1 align="center">Hi 👋, I'm Syeda Dua Fatima Kazmi</h1>
+<h1 align="center"> Hi there 👋 👋, I'm Syeda Dua Fatima Kazmi</h1>
 <h3 align="center">A passionate Scrum Master at Priv.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duafatimaa&label=Profile%20views&color=0e75b6&style=flat" alt="duafatimaa" /> </p>
